@@ -1,0 +1,41 @@
+
+h1 {
+    color: coral;
+}
+
+p {
+   color: rgb(80, 109, 255);
+}
+
+.subtema {
+    color: yellowgreen;
+}
+
+.card {
+    background-color: blue;
+    margin: 1%;
+    padding: 1%;
+    width: 30%;
+}
+
+.carrusel {
+    background-color: blueviolet;
+    margin: 1%;
+    padding: 1%;
+}
+.card p {
+    color: white;
+}
+div {
+    border: 1px;
+    border-style: dashed;
+    border-color: beige;
+}
+
+#importante {
+    background-color: orange;
+}
+
+#importante p {
+    color: black;
+}
